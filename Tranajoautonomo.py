@@ -13,4 +13,3 @@ def juego_piedra_papel_tijera():
     jugador1 = input("Jugador 1, elige Piedra, Papel o Tijera: ")
     jugador2 = input("Jugador 2, elige Piedra, Papel o Tijera: ")
 juego_piedra_papel_tijera()
-jugador1 = input("Jugador 1, elige Piedra, Papel o Tijera: ")
